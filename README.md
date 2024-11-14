@@ -1,4 +1,6 @@
 # EXNO:4-DS
+### NAME:SANJAY ASHWIN P 
+### REG NO:212223040181
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
@@ -25,8 +27,6 @@ The feature selection techniques used are:
 
 # CODING AND OUTPUT:
 
-### NAME : SANJAY ASHWIN P
-### REG NO : 212223040181
 
 ```
 import pandas as pd
